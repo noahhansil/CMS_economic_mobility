@@ -1,3 +1,11 @@
-@ Noah Hansil
-This project has an emphasis on the economic issues that many multi-generational Charlottonains face. 
-Economic mobilty is defined as the ability for an individual to improve their economic status, usually done through an increase in income, 
+CMS ECONOMIC MOBILITY
+
+This project has an emphasis on the economic issues that many multi-generational Charlottonains face, economic mobility. 
+Economic mobilty is defined as the ability for an individual, or family, to improve their economic status, usually done through an increase in income.
+
+In March 2017, The Charlotte-Mecklenburg Opportunity Task Force Report was released, this report was based on a 2013 Harvard University/UC Berkley study. The study highlighted that Charlotte, NC was ranked 50th out of 50 largest U.S. cities in the ability of a child born in the bottom income quanitle and the ability to rise to the top income quintile as an adult. The Task Force refered to three determinants that they believe has the greatest influence on the opportunity of anm individual to do what is stated in the sentence above. These three determinants include, Early Care and Education, College and Career Readiness, and Child and Family Stability. The focus of this project lies on College and Career Readiness.
+
+The differences in high school education standards is easily seen throughout Charlotte. One thing makes the biggest difference in regards to the education given to students, location. 4-year high school graduations rates can be closely correlated to the average household income of the area in which that high school is located. One of the biggest discrepancy between highschools in Charlotte is the number of students enrolled in AP/IB courses. These courses have the ability to not only count for credit in colleges/universities, but also provide students challenging courses in something not usually taught at most highschools (i.e. Computer Science). 
+
+The data used in the analysis of the various attributes that can be linked to college and career readiness was collected from the North Carolina School Report Cards website. This website list various attrributes linked to education successes, broken down by year (2015-2021) and individual school. For example, in 2018 Audrey Kell Highschool had a 4-year graduation rate of 95%, 1,668 students enrolled in AP/IB classes, 155 teachers, and 3,170 students. Note: limitations in the data due to Covid-19 make some attributes of the 2019-2020 data incomplete (e.g. attendance). 
+
